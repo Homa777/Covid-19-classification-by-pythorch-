@@ -1,1 +1,8 @@
-# Covid-19-classification-by-pythorch-
+# Covid-19-classification-by-pythorch
+
+In this repository, I reviewed the respotiry created by Shervin Minaee, Milan Sonka (the previous editor in chief of IEEE TMI), Rahele Kafieh, Shakib Yazdani, and Ghazaleh Jamalipour Soufi to make their work to the practical app. Besides, I separate their work to three sections so that it would be clear to undrestand. 
+
+
+I also add some suggestion that improve the code. 
+
+Besides, I adjust the code in a way that can be used in notebook which is more interactive, where you can run code, visualize data and include text all in one document
