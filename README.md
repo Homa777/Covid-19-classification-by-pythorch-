@@ -9,4 +9,4 @@ Besides, I adjust the code in a way that can be used in notebook which is more i
 
 # Upload the whole dataset in jupyter notebook
 
-We can upload the dataset including train dataset and test dataset         in one single zip file in jupitor noteook, then extract it as folder in your notebook. By this way, you can upload whole dataset. 
+We can upload the dataset including train dataset and test dataset (https://github.com/ieee8023/covid-chestxray-dataset)  in one single zip file in jupitor noteook, then extract it as folder in your notebook. By this way, you can upload whole dataset. 
