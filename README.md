@@ -6,3 +6,7 @@ In this repository, I reviewed the respotiry created by Shervin Minaee, Milan So
 I also add some suggestion that improve the code. 
 
 Besides, I adjust the code in a way that can be used in notebook which is more interactive, where you can run code, visualize data and include text all in one document
+
+# Upload the whole dataset in jupyter notebook
+
+We can upload the dataset including train dataset and test dataset         in one single zip file in jupitor noteook, then extract it as folder in your notebook. By this way, you can upload whole dataset. 
