@@ -1,6 +1,6 @@
 # Covid-19-classification-by-pythorch
 
-In this repository, I reviewed the respotiry created by Shervin Minaee, Milan Sonka (the previous editor in chief of IEEE TMI), Rahele Kafieh, Shakib Yazdani, and Ghazaleh Jamalipour Soufi to make their work to the practical app. Besides, I separate their work to three sections so that it would be clear to undrestand. 
+In this repository, I reviewed the respotiry created by Shervin Minaee, Milan Sonka (the previous editor in chief of IEEE TMI), Rahele Kafieh, Shakib Yazdani, and Ghazaleh Jamalipour Soufi, the pape is <a href= https://arxiv.org/pdf/2004.09363.pdf"> here ,/a> to make their work to a practical app. Besides, I separate their work to three sections so that it would be clear to undrestand. 
 
 
 I also add some suggestion that improve the code. 
