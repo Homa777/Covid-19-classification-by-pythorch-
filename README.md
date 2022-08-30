@@ -1,4 +1,4 @@
-# Covid-19-classification-by-pythorch
+# Covid-19-classification-by-pytorch
 
 In this repository, I reviewed the respotiry created by Shervin Minaee, Milan Sonka (the previous editor in chief of IEEE TMI), Rahele Kafieh, Shakib Yazdani, and Ghazaleh Jamalipour Soufi,  to make their work to a practical app. The paper can be seen <a href= "https://arxiv.org/pdf/2004.09363.pdf"> here </a>.
 
