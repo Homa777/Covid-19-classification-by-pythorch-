@@ -2,7 +2,7 @@
 
 In this repository, I reviewed the respotiry created by Shervin Minaee, Milan Sonka (the previous editor in chief of IEEE TMI), Rahele Kafieh, Shakib Yazdani, and Ghazaleh Jamalipour Soufi,  to make their work to a practical app. The paper can be seen <a href= "https://arxiv.org/pdf/2004.09363.pdf"> here </a>.
 
-Besides, I separate their work to three sections and add more details to explain the procedure. This code clarified the procedures to be more clear and comprehinsible.
+Besides, I separate their work to three sections and add more details to explain the procedure. This code clarified the procedures to be more clear and comprehensible.
 
 
 Besides, I adjust the code in a way that can be used in notebook which is more interactive, where you can run code, visualize data and include text all in one document.
