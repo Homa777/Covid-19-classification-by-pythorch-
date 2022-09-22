@@ -1,0 +1,4 @@
+# Upload the whole dataset in jupyter notebook
+
+We can upload the dataset including train dataset and test dataset:<a href= "https://github.com/ieee8023/covid-chestxray-dataset"> Covid-chestxray-dataset </a> and <a href= "https://stanfordmlgroup.github.io/competitions/chexpert"> ChexPert Dataset </a>  in one single zip file in jupytor noteook, then extract it as folder in your notebook.
+By this way, you can upload whole dataset in your notebook. 
