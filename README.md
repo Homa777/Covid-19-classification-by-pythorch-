@@ -10,3 +10,11 @@ Besides, I adjust the code in a way that can be used in notebook which is more i
 # Upload the whole dataset in jupyter notebook
 
 We can upload the dataset including train dataset and test dataset:<a href= "https://github.com/ieee8023/covid-chestxray-dataset"> Covid-chestxray-dataset </a> and <a href= "https://stanfordmlgroup.github.io/competitions/chexpert"> ChexPert Dataset </a>  in one single zip file in jupytor noteook, then extract it as folder in your notebook. By this way, you can upload whole dataset in your notebook. 
+
+
+# Train the model using pretrained model Resnet 18
+
+I trained the model for 30 epoch and saved the model, but the jupiter code only shows the result of 3 epoches. 
+
+# Test the model.
+I test the model for 100 covid images and 100 non-covid images, the results showed that the confusion matrix workes well to disniguish non-covid cases, but covid cases results is pretty wrong disnguished. I am going to find the root causes.
